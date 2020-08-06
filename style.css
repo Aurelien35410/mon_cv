@@ -1,3 +1,7 @@
+body{
+  width: 100%;
+}
+
 #topBar{
   position: fixed;
   width: 100%;
@@ -14,6 +18,7 @@
 }
 
 #recrutDiv{
+  width: 100%;
   padding-top : 200px;
   background-color: #222;
   color: white;
@@ -173,6 +178,10 @@ th{
   color: white;
   text-align: center;
   padding-bottom: 200px;
+}
+
+#champTexte{
+  max-width: 25%;
 }
 
 
